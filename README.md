@@ -85,8 +85,8 @@ New to Sushi Launcher? Watch the setup tutorial:
 
 | Version | Release Date | Highlights |
 |---------|--------------|------------|
-| **v0.2.0** | Dec 2024 | Multi-language support, Online-Fix tab, Auto-update, Steam restart prompt, Custom titlebar |
-| **v0.1.0** | Dec 2024 | Initial release - Home, Library, Catalogue, Game details, Installation |
+| **v0.2.0** | Dec 2025 | Multi-language support, Online-Fix tab, Auto-update, Steam restart prompt, Custom titlebar |
+| **v0.1.0** | Dec 2025 | Initial release - Home, Library, Catalogue, Game details, Installation |
 
 ---
 

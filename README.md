@@ -1,8 +1,149 @@
-# Sushi-Launcher
-This Launcher provides one of the best UI'S ive worked on
-Open Src will be coming soon
-You can put the launcher on your server ( BUT YOU HAVE TO GIVE CREDS AND PUT THE SERVER INVITE )
+<div align="center">
 
-Any questions you can go on the discord to ask the questions you have https://discord.gg/2uVDa6sgpd
+# 🍣 Sushi Launcher
 
-IF YOU WANT THE EXE LOOK AT THE RELEASES
+### The Ultimate Game Launcher with a Beautiful UI
+
+[![Version](https://img.shields.io/badge/version-0.2.0-pink?style=for-the-badge)](https://github.com/sushi-dev55/Sushi-Launcher/releases)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2uVDa6sgpd)
+[![Website](https://img.shields.io/badge/Website-Visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://sushi-launcher.vercel.app/)
+[![YouTube](https://img.shields.io/badge/Tutorial-Watch-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=pjBrwJRbIXs)
+
+<br/>
+
+**Sushi Launcher** is a sleek, modern game launcher built with Electron and React. It features one of the cleanest UIs in the game launcher space, with a dark theme, smooth animations, and a seamless user experience.
+
+<br/>
+
+[📥 Download](#-download) • [✨ Features](#-features) • [📸 Screenshots](#-screenshots) • [🎬 Tutorial](#-tutorial) • [💬 Discord](#-community)
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+![Home Page](https://github.com/sushi-dev55/Sushi-Launcher/blob/main/image_2025-12-26_153129534.png?raw=true)
+
+*🏠 Home - Browse hot and featured games*
+
+<br/>
+
+![Catalogue](https://github.com/sushi-dev55/Sushi-Launcher/blob/main/image_2025-12-26_155338006.png?raw=true)
+
+*📚 Catalogue - Explore the full game library*
+
+<br/>
+
+![Game Details](https://github.com/sushi-dev55/Sushi-Launcher/blob/main/image_2025-12-26_155651394.png?raw=true)
+
+*🎮 Game Details - View info, media, and install games*
+
+</div>
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| 🎨 **Beautiful UI** | Modern dark theme with pink accents and smooth animations |
+| 🏠 **Home Page** | Featured games and "Hot Right Now" section |
+| 📚 **Library** | View all your installed Steam games |
+| 🗂️ **Catalogue** | Browse and search available games |
+| 🌐 **Online-Fix** | Online-Fix games coming soon! |
+| 🌍 **Multi-Language** | 10 languages: English, Arabic, French, Spanish, German, Russian, Turkish, Chinese, Japanese, Korean |
+| 🔄 **Auto-Update** | Get notified when new versions are available |
+| ⚙️ **Custom Titlebar** | Draggable window with integrated controls |
+| 🎬 **Media Previews** | Watch trailers and view screenshots |
+| 💾 **One-Click Install** | Easy game installation |
+| 🔁 **Steam Restart** | Prompt to restart Steam after installing |
+
+---
+
+## 📥 Download
+
+### Latest Release: v0.2.0
+
+👉 **[Download from Releases](https://github.com/sushi-dev55/Sushi-Launcher/releases)**
+
+> ⚠️ **Note:** Download the `.exe` file from the Releases page, not the source code!
+
+---
+
+## 🎬 Tutorial
+
+New to Sushi Launcher? Watch the setup tutorial:
+
+[![YouTube Tutorial](https://img.shields.io/badge/▶%20Watch%20Tutorial-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=pjBrwJRbIXs)
+
+---
+
+## 📋 Version History
+
+| Version | Release Date | Highlights |
+|---------|--------------|------------|
+| **v0.2.0** | Dec 2024 | Multi-language support, Online-Fix tab, Auto-update, Steam restart prompt, Custom titlebar |
+| **v0.1.0** | Dec 2024 | Initial release - Home, Library, Catalogue, Game details, Installation |
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚡ **Electron** - Cross-platform desktop app
+- ⚛️ **React 18** - UI framework
+- 🎨 **Tailwind CSS** - Styling
+- 🔄 **Babel** - JSX transpilation
+- 🎮 **Steam API** - Game data and metadata
+
+---
+
+## 💬 Community
+
+Have questions? Need help? Want updates?
+
+[![Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2uVDa6sgpd)
+
+---
+
+## 🌐 Website
+
+Visit the official Sushi Launcher website:
+
+👉 **[sushi-launcher.vercel.app](https://sushi-launcher.vercel.app/)**
+
+---
+
+## 📜 Usage & Credits
+
+You are free to use this launcher on your own server, **BUT**:
+
+> ⚠️ **You MUST give credits and include the Discord server invite!**
+
+```
+Credits: Sushi Launcher by sushi-dev55
+Discord: https://discord.gg/2uVDa6sgpd
+```
+
+---
+
+## ⭐ Support
+
+If you like Sushi Launcher, please:
+
+- ⭐ **Star this repository**
+- 🐛 **Report bugs** on Discord
+- 💡 **Suggest features** on Discord
+- 📢 **Share with friends**
+
+---
+
+<div align="center">
+
+### Made with 💖 by sushi-dev55
+
+**[Website](https://sushi-launcher.vercel.app/)** • **[Discord](https://discord.gg/2uVDa6sgpd)** • **[YouTube](https://www.youtube.com/watch?v=pjBrwJRbIXs)** • **[Releases](https://github.com/sushi-dev55/Sushi-Launcher/releases)**
+
+</div>

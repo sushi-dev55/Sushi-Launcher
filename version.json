@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "downloadUrl": "https://github.com/sushi-dev55/Sushi-Launcher/releases/download/v0.2.0/Sushi.Launcher.Setup.0.2.0.exe",
-  "releaseNotes": "New features: Multi-language support, Online-Fix tab, Auto-update, Steam restart option"
+  "version": "0.2.1",
+  "downloadUrl": "https://github.com/sushi-dev55/Sushi-Launcher/releases/download/v0.2.1/Sushi.Launcher.Setup.0.2.1.exe",
+  "releaseNotes": "New features: Redesigned Catalogue UI, Reworked Library with full .lua games support, In-launcher game downloads and launching, DLC Adder, Credits tab, Donations tab"
 }

@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
-  "downloadUrl": "https://github.com/sushi-dev55/Sushi-Launcher/releases/tag/V0.2.1",
-  "releaseNotes": "New features: Redesigned Catalogue UI, Reworked Library with full .lua games support, In-launcher game downloads and launching, DLC Adder, Credits tab, Donations tab"
+  "version": "0.2.3",
+  "downloadUrl": "https://github.com/sushi-dev55/Sushi-Launcher/releases/tag/V0.2.3",
+  "releaseNotes": "Huge Update! Migrated to Tauri v2 for 20x smaller size and better performance. Fixed loading spinner animations, restored vibrant Update UI, improved badge styling, and cleaned up interface headers. Full backend rewrite in Rust."
 }

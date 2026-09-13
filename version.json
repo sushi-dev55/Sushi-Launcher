@@ -1,5 +1,5 @@
 {
-  "version": "0.2.3",
-  "downloadUrl": "https://github.com/sushi-dev55/Sushi-Launcher/releases/tag/V0.2.3",
-  "releaseNotes": "Huge Update! Migrated to Tauri v2 for 20x smaller size and better performance. Fixed loading spinner animations, restored vibrant Update UI, improved badge styling, and cleaned up interface headers. Full backend rewrite in Rust."
+  "version": "0.4.0",
+  "downloadUrl": "https://github.com/sushi-dev55/Sushi-Launcher/releases/tag/V0.4.0",
+  "releaseNotes": "big update. whole new ui, way faster, fixed couldnt load game on most games, trailers play again, the catalogue shows every game now and nsfw games arent blocked anymore"
 }
